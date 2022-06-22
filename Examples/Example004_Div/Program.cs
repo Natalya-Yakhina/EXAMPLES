@@ -1,5 +1,4 @@
-﻿//сумма двух чисел
-int numberA = 15;
-int numberB = 5;
-int result = (numberA / numberB);
-Console.WriteLine(result);
+﻿//частное двух чисел
+double numberA = 12;
+double numberB = 5;
+Console.WriteLine(numberA / numberB);
