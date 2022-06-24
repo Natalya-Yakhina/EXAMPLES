@@ -1,10 +1,10 @@
 ﻿// Задача про друзей
-int distance = 10000;
-int firstFriendSpeed = 1;
-int secondFriendSpeed = 2;
-int dogSpeed = 5;
-int time = 0;
-int friend = 2;
+    int distance = 10000,
+    firstFriendSpeed = 1,
+    secondFriendSpeed = 2,
+    dogSpeed = 5,
+    time = 0,
+    friend = 2;
     
 int count = 0;
 
