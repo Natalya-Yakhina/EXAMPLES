@@ -1,0 +1,15 @@
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\bin\Debug\net6.0\Example009_IntroMetod.exe
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\bin\Debug\net6.0\Example009_IntroMetod.deps.json
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\bin\Debug\net6.0\Example009_IntroMetod.runtimeconfig.json
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\bin\Debug\net6.0\Example009_IntroMetod.dll
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\bin\Debug\net6.0\Example009_IntroMetod.pdb
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.csproj.AssemblyReference.cache
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.AssemblyInfoInputs.cache
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.AssemblyInfo.cs
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.csproj.CoreCompileInputs.cache
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.dll
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\refint\Example009_IntroMetod.dll
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.pdb
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\Example009_IntroMetod.genruntimeconfig.cache
+C:\Users\Яхина Н А\Downloads\Examples\Examples\Examples\Example009_IntroMetod\obj\Debug\net6.0\ref\Example009_IntroMetod.dll
