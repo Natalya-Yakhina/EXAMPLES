@@ -17,24 +17,45 @@ void PrintArray(int[] array)
     }
     Console.WriteLine();
 }
-// упорядочивание массива
+// упорядочивание массива // min
+// void SellectionSort(int[] array)
+// {
+//     for (int i = 0; i < array.Length -1; i++) // искуственно отнять, т.к. при поиске минимального приавляем 1
+//     {
+//         int minPosition = i;
+       
+//         // ищем минимальный элемент
+//         for (int j = i + 1; j < array.Length; j++)
+//         {
+//             // здесь ищем мин элемент
+//             if(array[j] < array[minPosition]) minPosition = j;
+//         }
+        
+        
+//         int temporary = array[i];
+//         array[i] = array[minPosition]; // обмен двух переменных местами
+//         array[minPosition] = temporary;
+//     }
+// }
+
+
+// упорядочивание массива // max
 void SellectionSort(int[] array)
 {
-    for (int i = 0; i < array.Length -1; i++) // искуственно отнять, т.к. при поиске минимального приавляем 1
+    for (int i = 0; i < array.Length; i++) // искуственно отнять, т.к. при поиске минимального приавляем 1
     {
-        int minPosition = i;
-        
-        // ищем минимальный элемент
+        int maxPosition = i;
+       
+        // ищем максимальный элемент
         for (int j = i + 1; j < array.Length; j++)
         {
-            // здесь ищем мин элемент
-            if(array[j] < array[minPosition]) minPosition = j;
+            // здесь ищем макс элемент
+            if(array[j] > array[maxPosition]) maxPosition = j;
         }
         
-        
         int temporary = array[i];
-        array[i] = array[minPosition]; // обмен двух переменных местами
-        array[minPosition] = temporary;
+        array[i] = array[maxPosition]; // обмен двух переменных местами
+        array[maxPosition] = temporary;
     }
 }
 
