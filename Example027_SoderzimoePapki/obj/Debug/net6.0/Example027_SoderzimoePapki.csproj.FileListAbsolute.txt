@@ -1,0 +1,5 @@
+C:\Users\Яхина Н А\Desktop\Examples\Examples-1\Example027_SoderzimoePapki\obj\Debug\net6.0\Example027_SoderzimoePapki.csproj.AssemblyReference.cache
+C:\Users\Яхина Н А\Desktop\Examples\Examples-1\Example027_SoderzimoePapki\obj\Debug\net6.0\Example027_SoderzimoePapki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яхина Н А\Desktop\Examples\Examples-1\Example027_SoderzimoePapki\obj\Debug\net6.0\Example027_SoderzimoePapki.AssemblyInfoInputs.cache
+C:\Users\Яхина Н А\Desktop\Examples\Examples-1\Example027_SoderzimoePapki\obj\Debug\net6.0\Example027_SoderzimoePapki.AssemblyInfo.cs
+C:\Users\Яхина Н А\Desktop\Examples\Examples-1\Example027_SoderzimoePapki\obj\Debug\net6.0\Example027_SoderzimoePapki.csproj.CoreCompileInputs.cache
